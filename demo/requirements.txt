@@ -1,0 +1,6 @@
+fastmcp
+numpy
+scipy
+matplotlib
+# Match the Gurobi 12.0.2 optimiser/licence used by the paper experiments.
+gurobipy==12.0.2
