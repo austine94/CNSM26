@@ -1,0 +1,4171 @@
+{
+  "focus_cost": [
+    {
+      "rep": 0,
+      "seed": 0,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 42.52,
+        "energy": 5.25,
+        "latency": 0.4677
+      }
+    },
+    {
+      "rep": 1,
+      "seed": 1,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 57.76,
+        "energy": 5.35,
+        "latency": 0.3523
+      }
+    },
+    {
+      "rep": 2,
+      "seed": 2,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 43.79,
+        "energy": 4.87,
+        "latency": 0.3806
+      }
+    },
+    {
+      "rep": 3,
+      "seed": 3,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "10"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 4,
+      "seed": 4,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 5,
+      "seed": 5,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": "0",
+        "beta": "1",
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 53.31,
+        "energy": 5.17,
+        "latency": 0.3671
+      }
+    },
+    {
+      "rep": 6,
+      "seed": 6,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {
+        "cost": 54.9,
+        "energy": 4.94,
+        "latency": 0.4372
+      }
+    },
+    {
+      "rep": 7,
+      "seed": 7,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 8,
+      "seed": 8,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": "0",
+        "beta": "1",
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 46.12,
+        "energy": 4.91,
+        "latency": 0.4542
+      }
+    },
+    {
+      "rep": 9,
+      "seed": 9,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 1234567890,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 10,
+      "seed": 10,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 11,
+      "seed": 11,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000000
+      },
+      "metrics": {
+        "cost": 52.97,
+        "energy": 4.7,
+        "latency": 0.3337
+      }
+    },
+    {
+      "rep": 12,
+      "seed": 12,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 13,
+      "seed": 13,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 14,
+      "seed": 14,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 63.47,
+        "energy": 5.03,
+        "latency": 0.4864
+      }
+    },
+    {
+      "rep": 15,
+      "seed": 15,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 16,
+      "seed": 16,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": "0",
+        "beta": "1",
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 17,
+      "seed": 17,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": "1",
+        "max_datacentres": "100",
+        "alpha": "0"
+      },
+      "metrics": {
+        "cost": 63.98,
+        "energy": 5.05,
+        "latency": 0.3172
+      }
+    },
+    {
+      "rep": 18,
+      "seed": 18,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {
+        "cost": 81.58,
+        "energy": 5.04,
+        "latency": 0.397
+      }
+    },
+    {
+      "rep": 19,
+      "seed": 19,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": "100",
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 20,
+      "seed": 20,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 100000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 55.03,
+        "energy": 5.24,
+        "latency": 0.4055
+      }
+    },
+    {
+      "rep": 21,
+      "seed": 21,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 22,
+      "seed": 22,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": "0",
+        "beta": "1",
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 23,
+      "seed": 23,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": "10000",
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 59.81,
+        "energy": 5.15,
+        "latency": 0.5002
+      }
+    },
+    {
+      "rep": 24,
+      "seed": 24,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 25,
+      "seed": 25,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 42.74,
+        "energy": 5.18,
+        "latency": 0.4514
+      }
+    },
+    {
+      "rep": 26,
+      "seed": 26,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 60.09,
+        "energy": 5.33,
+        "latency": 0.533
+      }
+    },
+    {
+      "rep": 27,
+      "seed": 27,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 28,
+      "seed": 28,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 29,
+      "seed": 29,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 80.92,
+        "energy": 4.69,
+        "latency": 0.4445
+      }
+    },
+    {
+      "rep": 30,
+      "seed": 30,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 49.93,
+        "energy": 5.68,
+        "latency": 0.5176
+      }
+    },
+    {
+      "rep": 31,
+      "seed": 31,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": "10",
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 32,
+      "seed": 32,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 60.4,
+        "energy": 5.2,
+        "latency": 0.4563
+      }
+    },
+    {
+      "rep": 33,
+      "seed": 33,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 100,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 59.51,
+        "energy": 4.31,
+        "latency": 0.3795
+      }
+    },
+    {
+      "rep": 34,
+      "seed": 34,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 35,
+      "seed": 35,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": 100000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 109.12,
+        "energy": 5.1,
+        "latency": 0.4508
+      }
+    },
+    {
+      "rep": 36,
+      "seed": 36,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 37,
+      "seed": 37,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 38,
+      "seed": 38,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 55.01,
+        "energy": 4.75,
+        "latency": 0.3844
+      }
+    },
+    {
+      "rep": 39,
+      "seed": 39,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 49.91,
+        "energy": 4.67,
+        "latency": 0.4059
+      }
+    },
+    {
+      "rep": 40,
+      "seed": 40,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 55.71,
+        "energy": 4.99,
+        "latency": 0.5142
+      }
+    },
+    {
+      "rep": 41,
+      "seed": 41,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 42,
+      "seed": 42,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": 10,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 43,
+      "seed": 43,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": "0",
+        "beta": "1",
+        "max_datacentres": "10000"
+      },
+      "metrics": {
+        "cost": 60.61,
+        "energy": 5.52,
+        "latency": 0.4043
+      }
+    },
+    {
+      "rep": 44,
+      "seed": 44,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": "1",
+        "max_datacentres": "100",
+        "alpha": "0"
+      },
+      "metrics": {
+        "cost": 48.08,
+        "energy": 4.86,
+        "latency": 0.5315
+      }
+    },
+    {
+      "rep": 45,
+      "seed": 45,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": "0",
+        "beta": "1",
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 55.28,
+        "energy": 4.55,
+        "latency": 0.3743
+      }
+    },
+    {
+      "rep": 46,
+      "seed": 46,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100000"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 47,
+      "seed": 47,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 20000
+      },
+      "metrics": {
+        "cost": 54.39,
+        "energy": 4.92,
+        "latency": 0.5446
+      }
+    },
+    {
+      "rep": 48,
+      "seed": 48,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {
+        "cost": 59.42,
+        "energy": 5.18,
+        "latency": 0.3846
+      }
+    },
+    {
+      "rep": 49,
+      "seed": 49,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 55.44,
+        "energy": 5.17,
+        "latency": 0.4087
+      }
+    },
+    {
+      "rep": 50,
+      "seed": 50,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 51,
+      "seed": 51,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 63.94,
+        "energy": 4.83,
+        "latency": 0.4555
+      }
+    },
+    {
+      "rep": 52,
+      "seed": 52,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 53,
+      "seed": 53,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 39.39,
+        "energy": 5.09,
+        "latency": 0.3765
+      }
+    },
+    {
+      "rep": 54,
+      "seed": 54,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 90.05,
+        "energy": 5.1,
+        "latency": 0.4505
+      }
+    },
+    {
+      "rep": 55,
+      "seed": 55,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 100000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 56,
+      "seed": 56,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 57,
+      "seed": 57,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 49.53,
+        "energy": 5.49,
+        "latency": 0.4596
+      }
+    },
+    {
+      "rep": 58,
+      "seed": 58,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 57.14,
+        "energy": 4.88,
+        "latency": 0.3994
+      }
+    },
+    {
+      "rep": 59,
+      "seed": 59,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": 10,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 60,
+      "seed": 60,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 59.35,
+        "energy": 5.42,
+        "latency": 0.4313
+      }
+    },
+    {
+      "rep": 61,
+      "seed": 61,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 62,
+      "seed": 62,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 1000000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 63,
+      "seed": 63,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 59.43,
+        "energy": 4.77,
+        "latency": 0.4813
+      }
+    },
+    {
+      "rep": 64,
+      "seed": 64,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 31.72,
+        "energy": 4.82,
+        "latency": 0.4604
+      }
+    },
+    {
+      "rep": 65,
+      "seed": 65,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 66,
+      "seed": 66,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 60.59,
+        "energy": 4.74,
+        "latency": 0.3435
+      }
+    },
+    {
+      "rep": 67,
+      "seed": 67,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 68,
+      "seed": 68,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 69,
+      "seed": 69,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 1000000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 70,
+      "seed": 70,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 2147483647
+      },
+      "metrics": {
+        "cost": 59.09,
+        "energy": 5.15,
+        "latency": 0.4631
+      }
+    },
+    {
+      "rep": 71,
+      "seed": 71,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": "0",
+        "beta": "1",
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 72,
+      "seed": 72,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 52.47,
+        "energy": 5.16,
+        "latency": 0.3425
+      }
+    },
+    {
+      "rep": 73,
+      "seed": 73,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 49.22,
+        "energy": 5.0,
+        "latency": 0.5062
+      }
+    },
+    {
+      "rep": 74,
+      "seed": 74,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 75,
+      "seed": 75,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {
+        "cost": 80.28,
+        "energy": 4.8,
+        "latency": 0.5894
+      }
+    },
+    {
+      "rep": 76,
+      "seed": 76,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 77,
+      "seed": 77,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 74.33,
+        "energy": 5.04,
+        "latency": 0.438
+      }
+    },
+    {
+      "rep": 78,
+      "seed": 78,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 1000000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 79,
+      "seed": 79,
+      "prompt_category": "focus_cost",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 51.36,
+        "energy": 5.05,
+        "latency": 0.4465
+      }
+    }
+  ],
+  "focus_energy": [
+    {
+      "rep": 0,
+      "seed": 0,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10
+      },
+      "metrics": {
+        "cost": 42.52,
+        "energy": 5.25,
+        "latency": 0.4677
+      }
+    },
+    {
+      "rep": 1,
+      "seed": 1,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 57.76,
+        "energy": 5.35,
+        "latency": 0.3523
+      }
+    },
+    {
+      "rep": 2,
+      "seed": 2,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": 10000,
+        "alpha": 1
+      },
+      "metrics": {
+        "cost": 121.64,
+        "energy": 2.12,
+        "latency": 0.3845
+      }
+    },
+    {
+      "rep": 3,
+      "seed": 3,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 4,
+      "seed": 4,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 5,
+      "seed": 5,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 53.31,
+        "energy": 5.17,
+        "latency": 0.3671
+      }
+    },
+    {
+      "rep": 6,
+      "seed": 6,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 208.77,
+        "energy": 2.91,
+        "latency": 0.4298
+      }
+    },
+    {
+      "rep": 7,
+      "seed": 7,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 8,
+      "seed": 8,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 46.12,
+        "energy": 4.91,
+        "latency": 0.4542
+      }
+    },
+    {
+      "rep": 9,
+      "seed": 9,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 10,
+      "seed": 10,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 11,
+      "seed": 11,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 1000000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 52.97,
+        "energy": 4.7,
+        "latency": 0.3337
+      }
+    },
+    {
+      "rep": 12,
+      "seed": 12,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 13,
+      "seed": 13,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 14,
+      "seed": 14,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 63.47,
+        "energy": 5.03,
+        "latency": 0.4864
+      }
+    },
+    {
+      "rep": 15,
+      "seed": 15,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 16,
+      "seed": 16,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 17,
+      "seed": 17,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 63.98,
+        "energy": 5.05,
+        "latency": 0.3172
+      }
+    },
+    {
+      "rep": 18,
+      "seed": 18,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 81.58,
+        "energy": 5.04,
+        "latency": 0.397
+      }
+    },
+    {
+      "rep": 19,
+      "seed": 19,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 20,
+      "seed": 20,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 55.03,
+        "energy": 5.24,
+        "latency": 0.4055
+      }
+    },
+    {
+      "rep": 21,
+      "seed": 21,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 22,
+      "seed": 22,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 23,
+      "seed": 23,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 59.81,
+        "energy": 5.15,
+        "latency": 0.5002
+      }
+    },
+    {
+      "rep": 24,
+      "seed": 24,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 1000000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 25,
+      "seed": 25,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 42.74,
+        "energy": 5.18,
+        "latency": 0.4514
+      }
+    },
+    {
+      "rep": 26,
+      "seed": 26,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": "100",
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 60.09,
+        "energy": 5.33,
+        "latency": 0.533
+      }
+    },
+    {
+      "rep": 27,
+      "seed": 27,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 28,
+      "seed": 28,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 29,
+      "seed": 29,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 80.92,
+        "energy": 4.69,
+        "latency": 0.4445
+      }
+    },
+    {
+      "rep": 30,
+      "seed": 30,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 49.93,
+        "energy": 5.68,
+        "latency": 0.5176
+      }
+    },
+    {
+      "rep": 31,
+      "seed": 31,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": 1000000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 32,
+      "seed": 32,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 60.4,
+        "energy": 5.2,
+        "latency": 0.4563
+      }
+    },
+    {
+      "rep": 33,
+      "seed": 33,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 1000000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 59.51,
+        "energy": 4.31,
+        "latency": 0.3795
+      }
+    },
+    {
+      "rep": 34,
+      "seed": 34,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 35,
+      "seed": 35,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 109.12,
+        "energy": 5.1,
+        "latency": 0.4508
+      }
+    },
+    {
+      "rep": 36,
+      "seed": 36,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 37,
+      "seed": 37,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 38,
+      "seed": 38,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 55.01,
+        "energy": 4.75,
+        "latency": 0.3844
+      }
+    },
+    {
+      "rep": 39,
+      "seed": 39,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 49.91,
+        "energy": 4.67,
+        "latency": 0.4059
+      }
+    },
+    {
+      "rep": 40,
+      "seed": 40,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 55.71,
+        "energy": 4.99,
+        "latency": 0.5142
+      }
+    },
+    {
+      "rep": 41,
+      "seed": 41,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 42,
+      "seed": 42,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 43,
+      "seed": 43,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 60.61,
+        "energy": 5.52,
+        "latency": 0.4043
+      }
+    },
+    {
+      "rep": 44,
+      "seed": 44,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 48.08,
+        "energy": 4.86,
+        "latency": 0.5315
+      }
+    },
+    {
+      "rep": 45,
+      "seed": 45,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 55.28,
+        "energy": 4.55,
+        "latency": 0.3743
+      }
+    },
+    {
+      "rep": 46,
+      "seed": 46,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 2000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 47,
+      "seed": 47,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 54.39,
+        "energy": 4.92,
+        "latency": 0.5446
+      }
+    },
+    {
+      "rep": 48,
+      "seed": 48,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10
+      },
+      "metrics": {
+        "cost": 59.42,
+        "energy": 5.18,
+        "latency": 0.3846
+      }
+    },
+    {
+      "rep": 49,
+      "seed": 49,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 55.44,
+        "energy": 5.17,
+        "latency": 0.4087
+      }
+    },
+    {
+      "rep": 50,
+      "seed": 50,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 51,
+      "seed": 51,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0.1,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 203.38,
+        "energy": 2.69,
+        "latency": 0.4768
+      }
+    },
+    {
+      "rep": 52,
+      "seed": 52,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 53,
+      "seed": 53,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 39.39,
+        "energy": 5.09,
+        "latency": 0.3765
+      }
+    },
+    {
+      "rep": 54,
+      "seed": 54,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 90.05,
+        "energy": 5.1,
+        "latency": 0.4505
+      }
+    },
+    {
+      "rep": 55,
+      "seed": 55,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 56,
+      "seed": 56,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 57,
+      "seed": 57,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0.99,
+        "max_datacentres": 100000
+      },
+      "metrics": {
+        "cost": 55.9,
+        "energy": 3.94,
+        "latency": 0.4666
+      }
+    },
+    {
+      "rep": 58,
+      "seed": 58,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 57.14,
+        "energy": 4.88,
+        "latency": 0.3994
+      }
+    },
+    {
+      "rep": 59,
+      "seed": 59,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 60,
+      "seed": 60,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 59.35,
+        "energy": 5.42,
+        "latency": 0.4313
+      }
+    },
+    {
+      "rep": 61,
+      "seed": 61,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0,
+        "max_datacentres": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 62,
+      "seed": 62,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "10"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 63,
+      "seed": 63,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 59.43,
+        "energy": 4.77,
+        "latency": 0.4813
+      }
+    },
+    {
+      "rep": 64,
+      "seed": 64,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 31.72,
+        "energy": 4.82,
+        "latency": 0.4604
+      }
+    },
+    {
+      "rep": 65,
+      "seed": 65,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 66,
+      "seed": 66,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 60.59,
+        "energy": 4.74,
+        "latency": 0.3435
+      }
+    },
+    {
+      "rep": 67,
+      "seed": 67,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 68,
+      "seed": 68,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 69,
+      "seed": 69,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 70,
+      "seed": 70,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 59.09,
+        "energy": 5.15,
+        "latency": 0.4631
+      }
+    },
+    {
+      "rep": 71,
+      "seed": 71,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 72,
+      "seed": 72,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": "all",
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 73,
+      "seed": 73,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 49.22,
+        "energy": 5.0,
+        "latency": 0.5062
+      }
+    },
+    {
+      "rep": 74,
+      "seed": 74,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 75,
+      "seed": 75,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 80.28,
+        "energy": 4.8,
+        "latency": 0.5894
+      }
+    },
+    {
+      "rep": 76,
+      "seed": 76,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 77,
+      "seed": 77,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 74.33,
+        "energy": 5.04,
+        "latency": 0.438
+      }
+    },
+    {
+      "rep": 78,
+      "seed": 78,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 79,
+      "seed": 79,
+      "prompt_category": "focus_energy",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 51.36,
+        "energy": 5.05,
+        "latency": 0.4465
+      }
+    }
+  ],
+  "focus_latency": [
+    {
+      "rep": 0,
+      "seed": 0,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10
+      },
+      "metrics": {
+        "cost": 231.48,
+        "energy": 2.29,
+        "latency": 0.4299
+      }
+    },
+    {
+      "rep": 1,
+      "seed": 1,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 5
+      },
+      "metrics": {
+        "cost": 273.27,
+        "energy": 3.17,
+        "latency": 0.3963
+      }
+    },
+    {
+      "rep": 2,
+      "seed": 2,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 121.64,
+        "energy": 2.12,
+        "latency": 0.3845
+      }
+    },
+    {
+      "rep": 3,
+      "seed": 3,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": 10,
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 4,
+      "seed": 4,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 5,
+      "seed": 5,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 307.71,
+        "energy": 3.03,
+        "latency": 0.3634
+      }
+    },
+    {
+      "rep": 6,
+      "seed": 6,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 208.77,
+        "energy": 2.91,
+        "latency": 0.4298
+      }
+    },
+    {
+      "rep": 7,
+      "seed": 7,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": 1,
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 8,
+      "seed": 8,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {
+        "cost": 241.43,
+        "energy": 2.39,
+        "latency": 0.4035
+      }
+    },
+    {
+      "rep": 9,
+      "seed": 9,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 10,
+      "seed": 10,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": "10",
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 11,
+      "seed": 11,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 237.13,
+        "energy": 3.0,
+        "latency": 0.3182
+      }
+    },
+    {
+      "rep": 12,
+      "seed": 12,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 13,
+      "seed": 13,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 14,
+      "seed": 14,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 3
+      },
+      "metrics": {
+        "cost": 320.9,
+        "energy": 3.08,
+        "latency": 0.4084
+      }
+    },
+    {
+      "rep": 15,
+      "seed": 15,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 16,
+      "seed": 16,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": 5,
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 17,
+      "seed": 17,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10
+      },
+      "metrics": {
+        "cost": 324.58,
+        "energy": 3.02,
+        "latency": 0.313
+      }
+    },
+    {
+      "rep": 18,
+      "seed": 18,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 208.61,
+        "energy": 3.18,
+        "latency": 0.3319
+      }
+    },
+    {
+      "rep": 19,
+      "seed": 19,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 20,
+      "seed": 20,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 317.62,
+        "energy": 3.3,
+        "latency": 0.3371
+      }
+    },
+    {
+      "rep": 21,
+      "seed": 21,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 22,
+      "seed": 22,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 2147483647
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 23,
+      "seed": 23,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": null,
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 24,
+      "seed": 24,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 25,
+      "seed": 25,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 20000
+      },
+      "metrics": {
+        "cost": 221.56,
+        "energy": 2.2,
+        "latency": 0.4385
+      }
+    },
+    {
+      "rep": 26,
+      "seed": 26,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 236.14,
+        "energy": 3.41,
+        "latency": 0.4249
+      }
+    },
+    {
+      "rep": 27,
+      "seed": 27,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 2147483647
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 28,
+      "seed": 28,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 29,
+      "seed": 29,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 270.48,
+        "energy": 3.06,
+        "latency": 0.3718
+      }
+    },
+    {
+      "rep": 30,
+      "seed": 30,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": 1000,
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {
+        "cost": 263.45,
+        "energy": 2.64,
+        "latency": 0.5038
+      }
+    },
+    {
+      "rep": 31,
+      "seed": 31,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": 10000,
+        "alpha": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 32,
+      "seed": 32,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 240.49,
+        "energy": 3.02,
+        "latency": 0.4108
+      }
+    },
+    {
+      "rep": 33,
+      "seed": 33,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1
+      },
+      "metrics": {
+        "cost": 385.29,
+        "energy": 2.64,
+        "latency": 0.3653
+      }
+    },
+    {
+      "rep": 34,
+      "seed": 34,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 35,
+      "seed": 35,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 288.7,
+        "energy": 2.82,
+        "latency": 0.4084
+      }
+    },
+    {
+      "rep": 36,
+      "seed": 36,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 37,
+      "seed": 37,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 38,
+      "seed": 38,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": "1000000"
+      },
+      "metrics": {
+        "cost": 287.35,
+        "energy": 2.8,
+        "latency": 0.3355
+      }
+    },
+    {
+      "rep": 39,
+      "seed": 39,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 40,
+      "seed": 40,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 308.47,
+        "energy": 2.9,
+        "latency": 0.435
+      }
+    },
+    {
+      "rep": 41,
+      "seed": 41,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 42,
+      "seed": 42,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 43,
+      "seed": 43,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": null,
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 44,
+      "seed": 44,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 199.26,
+        "energy": 2.19,
+        "latency": 0.4452
+      }
+    },
+    {
+      "rep": 45,
+      "seed": 45,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 293.28,
+        "energy": 2.86,
+        "latency": 0.345
+      }
+    },
+    {
+      "rep": 46,
+      "seed": 46,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 47,
+      "seed": 47,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {
+        "cost": 365.04,
+        "energy": 2.8,
+        "latency": 0.481
+      }
+    },
+    {
+      "rep": 48,
+      "seed": 48,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": 1,
+        "alpha": 1
+      },
+      "metrics": {
+        "cost": 321.49,
+        "energy": 3.12,
+        "latency": 0.3956
+      }
+    },
+    {
+      "rep": 49,
+      "seed": 49,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": null,
+        "alpha": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 50,
+      "seed": 50,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 51,
+      "seed": 51,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": 10000,
+        "alpha": 1
+      },
+      "metrics": {
+        "cost": 205.56,
+        "energy": 3.09,
+        "latency": 0.3857
+      }
+    },
+    {
+      "rep": 52,
+      "seed": 52,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 53,
+      "seed": 53,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": "null"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 54,
+      "seed": 54,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "max_datacentres": 10,
+        "alpha": 1,
+        "beta": 0
+      },
+      "metrics": {
+        "cost": 315.6,
+        "energy": 3.14,
+        "latency": 0.4278
+      }
+    },
+    {
+      "rep": 55,
+      "seed": 55,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 56,
+      "seed": 56,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 57,
+      "seed": 57,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 99999
+      },
+      "metrics": {
+        "cost": 268.9,
+        "energy": 2.39,
+        "latency": 0.4592
+      }
+    },
+    {
+      "rep": 58,
+      "seed": 58,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 315.11,
+        "energy": 2.82,
+        "latency": 0.3774
+      }
+    },
+    {
+      "rep": 59,
+      "seed": 59,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 60,
+      "seed": 60,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 61,
+      "seed": 61,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 3
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 62,
+      "seed": 62,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 63,
+      "seed": 63,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 331.77,
+        "energy": 2.69,
+        "latency": 0.4522
+      }
+    },
+    {
+      "rep": 64,
+      "seed": 64,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 65,
+      "seed": 65,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 66,
+      "seed": 66,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": 2147483647,
+        "alpha": 1
+      },
+      "metrics": {
+        "cost": 198.55,
+        "energy": 2.55,
+        "latency": 0.3517
+      }
+    },
+    {
+      "rep": 67,
+      "seed": 67,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": 10,
+        "alpha": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 68,
+      "seed": 68,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 69,
+      "seed": 69,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 70,
+      "seed": 70,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": null
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 71,
+      "seed": 71,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 72,
+      "seed": 72,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 263.39,
+        "energy": 2.5,
+        "latency": 0.357
+      }
+    },
+    {
+      "rep": 73,
+      "seed": 73,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 211.14,
+        "energy": 2.48,
+        "latency": 0.4629
+      }
+    },
+    {
+      "rep": 74,
+      "seed": 74,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": null,
+        "alpha": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 75,
+      "seed": 75,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "beta": 0,
+        "max_datacentres": 10000,
+        "alpha": 1
+      },
+      "metrics": {
+        "cost": 213.7,
+        "energy": 3.08,
+        "latency": 0.4999
+      }
+    },
+    {
+      "rep": 76,
+      "seed": 76,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 77,
+      "seed": 77,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 289.93,
+        "energy": 2.93,
+        "latency": 0.4392
+      }
+    },
+    {
+      "rep": 78,
+      "seed": 78,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": 5
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 79,
+      "seed": 79,
+      "prompt_category": "focus_latency",
+      "tool_args": {
+        "alpha": 1,
+        "beta": 0,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 221.58,
+        "energy": 2.92,
+        "latency": 0.4194
+      }
+    }
+  ],
+  "balanced": [
+    {
+      "rep": 0,
+      "seed": 0,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 42.52,
+        "energy": 5.25,
+        "latency": 0.4677
+      }
+    },
+    {
+      "rep": 1,
+      "seed": 1,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 272.71,
+        "energy": 3.17,
+        "latency": 0.3963
+      }
+    },
+    {
+      "rep": 2,
+      "seed": 2,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 43.79,
+        "energy": 4.87,
+        "latency": 0.3806
+      }
+    },
+    {
+      "rep": 3,
+      "seed": 3,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 4,
+      "seed": 4,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 5,
+      "seed": 5,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 53.31,
+        "energy": 5.17,
+        "latency": 0.3671
+      }
+    },
+    {
+      "rep": 6,
+      "seed": 6,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.25,
+        "beta": 0.75,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 136.84,
+        "energy": 3.23,
+        "latency": 0.4348
+      }
+    },
+    {
+      "rep": 7,
+      "seed": 7,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 8,
+      "seed": 8,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 236.29,
+        "energy": 1.98,
+        "latency": 0.4957
+      }
+    },
+    {
+      "rep": 9,
+      "seed": 9,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 10,
+      "seed": 10,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 1000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 11,
+      "seed": 11,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 179.25,
+        "energy": 3.38,
+        "latency": 0.2987
+      }
+    },
+    {
+      "rep": 12,
+      "seed": 12,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.8,
+        "max_datacentres": 10
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 13,
+      "seed": 13,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 14,
+      "seed": 14,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 63.47,
+        "energy": 5.03,
+        "latency": 0.4864
+      }
+    },
+    {
+      "rep": 15,
+      "seed": 15,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.6666666666666666,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 16,
+      "seed": 16,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "beta": 0.75,
+        "max_datacentres": 10,
+        "alpha": 0.5
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 17,
+      "seed": 17,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 324.73,
+        "energy": 2.65,
+        "latency": 0.3802
+      }
+    },
+    {
+      "rep": 18,
+      "seed": 18,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 100,
+        "alpha": 0.5,
+        "beta": 0.67
+      },
+      "metrics": {
+        "cost": 209.68,
+        "energy": 3.61,
+        "latency": 0.2946
+      }
+    },
+    {
+      "rep": 19,
+      "seed": 19,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 1000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 20,
+      "seed": 20,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 317.62,
+        "energy": 3.3,
+        "latency": 0.3371
+      }
+    },
+    {
+      "rep": 21,
+      "seed": 21,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.67,
+        "max_datacentres": 1000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 22,
+      "seed": 22,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.67,
+        "max_datacentres": 10
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 23,
+      "seed": 23,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 59.81,
+        "energy": 5.15,
+        "latency": 0.5002
+      }
+    },
+    {
+      "rep": 24,
+      "seed": 24,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 25,
+      "seed": 25,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 221.56,
+        "energy": 2.2,
+        "latency": 0.4385
+      }
+    },
+    {
+      "rep": 26,
+      "seed": 26,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 60.09,
+        "energy": 5.33,
+        "latency": 0.533
+      }
+    },
+    {
+      "rep": 27,
+      "seed": 27,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 28,
+      "seed": 28,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 29,
+      "seed": 29,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100000
+      },
+      "metrics": {
+        "cost": 80.92,
+        "energy": 4.69,
+        "latency": 0.4445
+      }
+    },
+    {
+      "rep": 30,
+      "seed": 30,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 49.93,
+        "energy": 5.68,
+        "latency": 0.5176
+      }
+    },
+    {
+      "rep": 31,
+      "seed": 31,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 32,
+      "seed": 32,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 60.4,
+        "energy": 5.2,
+        "latency": 0.4563
+      }
+    },
+    {
+      "rep": 33,
+      "seed": 33,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 333.49,
+        "energy": 2.79,
+        "latency": 0.3566
+      }
+    },
+    {
+      "rep": 34,
+      "seed": 34,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 35,
+      "seed": 35,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 109.12,
+        "energy": 5.1,
+        "latency": 0.4508
+      }
+    },
+    {
+      "rep": 36,
+      "seed": 36,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 10000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 37,
+      "seed": 37,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 1000000,
+        "alpha": 0
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 38,
+      "seed": 38,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 55.01,
+        "energy": 4.75,
+        "latency": 0.3844
+      }
+    },
+    {
+      "rep": 39,
+      "seed": 39,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 49.91,
+        "energy": 4.67,
+        "latency": 0.4059
+      }
+    },
+    {
+      "rep": 40,
+      "seed": 40,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 100,
+        "alpha": 0.5,
+        "beta": 0.5
+      },
+      "metrics": {
+        "cost": 307.67,
+        "energy": 2.88,
+        "latency": 0.4373
+      }
+    },
+    {
+      "rep": 41,
+      "seed": 41,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 1000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 43,
+      "seed": 43,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0.5,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 281.25,
+        "energy": 2.91,
+        "latency": 0.4701
+      }
+    },
+    {
+      "rep": 44,
+      "seed": 44,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {
+        "cost": 48.08,
+        "energy": 4.86,
+        "latency": 0.5315
+      }
+    },
+    {
+      "rep": 45,
+      "seed": 45,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 293.28,
+        "energy": 2.86,
+        "latency": 0.345
+      }
+    },
+    {
+      "rep": 46,
+      "seed": 46,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 47,
+      "seed": 47,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 1000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 54.39,
+        "energy": 4.92,
+        "latency": 0.5446
+      }
+    },
+    {
+      "rep": 48,
+      "seed": 48,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.67,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 251.5,
+        "energy": 3.44,
+        "latency": 0.3866
+      }
+    },
+    {
+      "rep": 49,
+      "seed": 49,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.67,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 235.61,
+        "energy": 3.04,
+        "latency": 0.3842
+      }
+    },
+    {
+      "rep": 50,
+      "seed": 50,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 100,
+        "alpha": 0.5,
+        "beta": 0.75
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 51,
+      "seed": 51,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 203.38,
+        "energy": 2.69,
+        "latency": 0.4768
+      }
+    },
+    {
+      "rep": 52,
+      "seed": 52,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.6666666666666666,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 53,
+      "seed": 53,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000000
+      },
+      "metrics": {
+        "cost": 39.39,
+        "energy": 5.09,
+        "latency": 0.3765
+      }
+    },
+    {
+      "rep": 54,
+      "seed": 54,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0.5,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 314.94,
+        "energy": 2.77,
+        "latency": 0.5347
+      }
+    },
+    {
+      "rep": 55,
+      "seed": 55,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 56,
+      "seed": 56,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.75,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 57,
+      "seed": 57,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.6666666666666666,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 180.64,
+        "energy": 2.92,
+        "latency": 0.4369
+      }
+    },
+    {
+      "rep": 58,
+      "seed": 58,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.7,
+        "beta": 0.5,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 246.47,
+        "energy": 3.25,
+        "latency": 0.3489
+      }
+    },
+    {
+      "rep": 59,
+      "seed": 59,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.75,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 60,
+      "seed": 60,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.67,
+        "beta": 0.67,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 310.46,
+        "energy": 3.97,
+        "latency": 0.3249
+      }
+    },
+    {
+      "rep": 61,
+      "seed": 61,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": "100"
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 62,
+      "seed": 62,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 63,
+      "seed": 63,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": "100",
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 59.43,
+        "energy": 4.77,
+        "latency": 0.4813
+      }
+    },
+    {
+      "rep": 64,
+      "seed": 64,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {
+        "cost": 127.81,
+        "energy": 1.86,
+        "latency": 0.449
+      }
+    },
+    {
+      "rep": 65,
+      "seed": 65,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.67,
+        "max_datacentres": 10
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 66,
+      "seed": 66,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.67,
+        "max_datacentres": 10000
+      },
+      "metrics": {
+        "cost": 197.01,
+        "energy": 2.62,
+        "latency": 0.3476
+      }
+    },
+    {
+      "rep": 67,
+      "seed": 67,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.8,
+        "beta": 0.5,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 68,
+      "seed": 68,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 69,
+      "seed": 69,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.5,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 70,
+      "seed": 70,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 10
+      },
+      "metrics": {
+        "cost": 59.09,
+        "energy": 5.15,
+        "latency": 0.4631
+      }
+    },
+    {
+      "rep": 71,
+      "seed": 71,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "beta": 0.5,
+        "max_datacentres": 100,
+        "alpha": 0.5
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 72,
+      "seed": 72,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 52.47,
+        "energy": 5.16,
+        "latency": 0.3425
+      }
+    },
+    {
+      "rep": 73,
+      "seed": 73,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "max_datacentres": 10000000,
+        "alpha": 0,
+        "beta": 1
+      },
+      "metrics": {
+        "cost": 49.22,
+        "energy": 5.0,
+        "latency": 0.5062
+      }
+    },
+    {
+      "rep": 74,
+      "seed": 74,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.67,
+        "max_datacentres": 100
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 75,
+      "seed": 75,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "beta": 1,
+        "max_datacentres": 10000,
+        "alpha": 0
+      },
+      "metrics": {
+        "cost": 80.28,
+        "energy": 4.8,
+        "latency": 0.5894
+      }
+    },
+    {
+      "rep": 76,
+      "seed": 76,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 1,
+        "max_datacentres": 10000
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 77,
+      "seed": 77,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0,
+        "beta": 1,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 74.33,
+        "energy": 5.04,
+        "latency": 0.438
+      }
+    },
+    {
+      "rep": 78,
+      "seed": 78,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "beta": 0.5,
+        "max_datacentres": 10000,
+        "alpha": 0.5
+      },
+      "metrics": {}
+    },
+    {
+      "rep": 79,
+      "seed": 79,
+      "prompt_category": "balanced",
+      "tool_args": {
+        "alpha": 0.5,
+        "beta": 0.8,
+        "max_datacentres": 1000
+      },
+      "metrics": {
+        "cost": 220.78,
+        "energy": 3.44,
+        "latency": 0.385
+      }
+    }
+  ]
+}
